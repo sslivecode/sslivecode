@@ -10,6 +10,6 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to explor
 
 - 📫 **How to reach me**: You can reach me through [email](mailto:sslivecode@gmail.com) or connect with me on [website](https://rsrjteam.com).
 
-- 😄 **Pronouns**: He/Him / They/Them (feel free to use whichever is most comfortable for you!)
+- 😄 **Pronouns**: She/Her
 
-- ⚡ **Fun fact**: I once built a robot that can brew coffee and play music at the same time! ☕🎶
+- ⚡ **Fun fact**: Coders often struggle with writing good commit messages. A common joke is finding a message like git commit -m "fixed stuff"
