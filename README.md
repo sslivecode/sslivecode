@@ -41,6 +41,10 @@ Coders often struggle with writing good commit messages. A common joke is findin
 ## 🔧 **Technologies I Use**  
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FF8C00?style=flat&logo=javascript&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 
 Thanks for visiting my profile! Feel free to check out my repositories and projects. Let's connect and create something amazing! 🚀
